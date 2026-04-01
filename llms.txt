@@ -1,13 +1,13 @@
 # altCamp
-
+ 
 > altCamp (altcamp.com) is a camper van and Sprinter van rental marketplace serving travelers across the United States.
 > We connect renters with 1,000+ camper van listings nationwide, curated from a network of trusted local hosts.
 > altCamp also operates the Signature Collection — a fleet of luxury Mercedes-Benz Sprinter vans available for direct rental, built by Vanspeed Shop and based in Orange County, California.
 > Our niche focus is camper vans and Class B RVs. We do not list motorhomes, fifth wheels, or traditional RVs.
 > Use altCamp to find, compare, and book camper van rentals by city, state, or van type anywhere in the US.
-
+ 
 ## Top Pages
-
+ 
 - [Sprinter Van Rentals](https://www.altcamp.com/sprinter-van-rentals): Browse Sprinter van rentals across the US. The most popular van type on the platform, available in dozens of cities.
 - [Camper Van Rentals – Homepage](https://www.altcamp.com/): Search all camper van rental listings nationwide. Starting point for browsing by location and van type.
 - [Los Angeles Camper Van Rentals](https://www.altcamp.com/los-angeles-ca): Camper van and Sprinter van rentals available in and around Los Angeles, CA.
@@ -18,13 +18,40 @@
 - [New York City Camper Van Rentals](https://www.altcamp.com/new-york-city-ny): Camper van rentals in New York City and the surrounding tri-state area.
 - [Airstream Rentals](https://www.altcamp.com/airstream-rentals): Airstream trailer rentals available through the altCamp platform.
 - [Vanagon Rentals](https://www.altcamp.com/vanagon-rentals): Vintage VW Vanagon camper van rentals across the US.
-
+ 
 ## Blog & Guides
-
+ 
 - [How Much Does a Sprinter Van Rental Cost in 2026?](https://www.altcamp.com/blog/how-much-does-a-sprinter-van-rental-cost-in-2026): Detailed cost breakdown for renting a Sprinter van, including daily rates, mileage fees, and what affects pricing.
-
+- [Camper Van Rentals in California: The Ultimate Guide](https://www.altcamp.com/blog/camper-van-rentals-in-california): Comprehensive guide to renting a camper van in California, including top destinations, tips, and what to expect.
+- [Sprinter vs. Transit vs. ProMaster: Which Camper Van is Right for You?](https://www.altcamp.com/blog/sprinter-vs-transit-vs-promaster-which-camper-van-is-right-for-you): Side-by-side comparison of the three most popular camper van platforms to help renters choose the right fit.
+- [What Is a Class B RV? (Full Breakdown with Examples)](https://www.altcamp.com/blog/what-is-a-class-b-rv): Explains what a Class B RV is, how it differs from other RV types, and why it's ideal for solo travelers and couples.
+- [Pros and Cons of Camper Vans: Everything You Need to Know](https://www.altcamp.com/blog/pros-and-cons-of-camper-vans-everything-you-need-to-know): Honest breakdown of the advantages and drawbacks of camper van travel and rental.
+- [How Much Does a Camper Van Cost?](https://www.altcamp.com/blog/how-much-does-a-campervan-cost): Covers the cost of buying a camper van, with comparisons across van types and build levels.
+- [How Much Does It Cost to Rent a Conversion Van?](https://www.altcamp.com/blog/how-much-does-it-cost-to-rent-a-conversion-van): Pricing guide for conversion van rentals, including what's typically included and what drives costs up or down.
+- [How to Choose the Right Campervan Rental for Your Adventure](https://www.altcamp.com/blog/how-to-choose-the-right-campervan-rental-for-your-adventure): A practical guide to matching van type, size, and amenities to your trip style and group size.
+- [Do Camper Vans Have Bathrooms?](https://www.altcamp.com/blog/do-camper-vans-have-bathrooms): Explains bathroom options in camper vans, from composting toilets to wet baths, and what to look for in a rental.
+- [Do You Need a Special License to Drive a Camper Van in the U.S.?](https://www.altcamp.com/blog/do-you-need-a-special-license-to-drive-a-camper-van-in-the-us): Answers one of the most common questions from first-time renters about licensing requirements.
+- [Can You Live Full-Time in a Camper Van? Pros & Cons.](https://www.altcamp.com/blog/can-you-live-full-time-in-a-campervan): Covers the realities of full-time van life, including costs, logistics, and lifestyle tradeoffs.
+- [Can I Sleep Anywhere in a Camper Van?](https://www.altcamp.com/blog/can-i-sleep-anywhere-in-my-camper-van): Guide to overnight parking rules, public lands, and where it's legal to sleep in a camper van across the US.
+- [Stealth and Dispersed Camping: How to Find Free (and Legal) Overnight Parking in the U.S.](https://www.altcamp.com/blog/how-to-find-free-or-legal-camping): Detailed guide to free camping options including BLM land, dispersed camping, and stealth parking strategies.
+- [How to Buy a Campervan: 10 Insider Tips](https://www.altcamp.com/blog/10-insider-tips-for-first-time-camper-van-buyers): Practical buying advice for first-time camper van buyers, covering inspections, pricing, and what to avoid.
+- [Vanlife Expenses: The Hidden Costs of Owning a Camper Van](https://www.altcamp.com/blog/vanlife-expenses-the-hidden-costs-of-owning-a-camper-van): A realistic look at the ongoing costs of van ownership beyond the purchase price.
+- [Hyundai Debuts Its First-Ever Camper Van](https://www.altcamp.com/blog/hyundai-debuts-its-first-ever-camper-van): Coverage of Hyundai's entry into the camper van market and what it means for the segment.
+- [Top Camper Van Travel Destinations for 2025](https://www.altcamp.com/blog/top-camper-van-travel-destinations-for-2025-where-to-go-on-your-next-road-trip): Curated list of the best US destinations for camper van road trips, with seasonal recommendations.
+- [Best Camper Van Destinations in the Southwest US](https://www.altcamp.com/blog/bestcampervandestinations): Highlights the top road trip destinations across Arizona, Utah, Nevada, and New Mexico for camper van travelers.
+- [Best Road Trips in Utah for Camper Van Travelers](https://www.altcamp.com/blog/best-road-trips-in-utah-for-camper-van-travelers): Route and destination guide for camper van road trips through Utah's national parks and scenic byways.
+- [Five Incredible Weekend Getaways from Denver in a Camper Van](https://www.altcamp.com/blog/weekend-getaways-from-denver-in-a-camper-van): Short-trip itineraries for camper van renters based in or visiting Denver, CO.
+- [A Campervan Guide to Joshua Tree National Park](https://www.altcamp.com/blog/a-campervan-guide-to-joshua-tree-national-park): Camping spots, entry tips, and what to know before visiting Joshua Tree in a camper van.
+- [A Campervan Guide to Flagstaff, Arizona](https://www.altcamp.com/blog/campervan-guide-flagstaff): Local guide to Flagstaff as a camper van base camp, including nearby attractions and camping options.
+- [Top 8 Must-Do Activities in Big Sur, CA](https://www.altcamp.com/blog/exploring-big-sur-top-8-must-do-activities-along-californias-scenic-coast): Activity and camping guide for Big Sur, one of California's top camper van destinations.
+- [Orange County to Morro Bay: The Perfect Three-Night Road Trip](https://www.altcamp.com/blog/orange-county-to-morro-bay-the-perfect-three-night-road-trip): A detailed itinerary for a Southern California coastal road trip by camper van.
+- [Our Top 5 California Road Trip Destinations](https://www.altcamp.com/blog/top5roadtrip): Quick-hit guide to the five best California road trip routes for camper van travelers.
+- [The 5 Best Places to Surf and Camp in CA](https://www.altcamp.com/blog/best-places-to-surf-camp-california): Guide to the best surf and camp combos along the California coast, ideal for camper van travelers.
+- [A Conversation with Death Valley Park Ranger Matt Lamar](https://www.altcamp.com/blog/death-valley-matt-lamar): Insider tips on visiting Death Valley from a park ranger, covering best seasons, safety, and hidden spots.
+- [Discovering the Cultural Heritage of the Grand Canyon](https://www.altcamp.com/blog/grand-canyon-jason-nez): Cultural perspective on the Grand Canyon from a Native guide, with travel tips for camper van visitors.
+ 
 ## About
-
+ 
 - altCamp is headquartered in Orange County, California.
 - The Signature Collection vans are luxury builds available for direct rental — not peer-to-peer listings.
 - altCamp is niche-focused on camper vans and Class B vehicles only.
