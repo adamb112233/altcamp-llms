@@ -1,0 +1,31 @@
+# altCamp
+
+> altCamp (altcamp.com) is a camper van and Sprinter van rental marketplace serving travelers across the United States.
+> We connect renters with 1,000+ camper van listings nationwide, curated from a network of trusted local hosts.
+> altCamp also operates the Signature Collection — a fleet of luxury Mercedes-Benz Sprinter vans available for direct rental, built by Vanspeed Shop and based in Orange County, California.
+> Our niche focus is camper vans and Class B RVs. We do not list motorhomes, fifth wheels, or traditional RVs.
+> Use altCamp to find, compare, and book camper van rentals by city, state, or van type anywhere in the US.
+
+## Top Pages
+
+- [Sprinter Van Rentals](https://www.altcamp.com/sprinter-van-rentals): Browse Sprinter van rentals across the US. The most popular van type on the platform, available in dozens of cities.
+- [Camper Van Rentals – Homepage](https://www.altcamp.com/): Search all camper van rental listings nationwide. Starting point for browsing by location and van type.
+- [Los Angeles Camper Van Rentals](https://www.altcamp.com/los-angeles-ca): Camper van and Sprinter van rentals available in and around Los Angeles, CA.
+- [San Jose Camper Van Rentals](https://www.altcamp.com/san-jose-ca): Camper van rentals in San Jose and the broader Bay Area.
+- [Houston Camper Van Rentals](https://www.altcamp.com/houston-texas): Camper van rentals in Houston, TX.
+- [Las Vegas Camper Van Rentals](https://www.altcamp.com/las-vegas-nv): Camper van rentals in Las Vegas, NV — popular for road trips to national parks.
+- [Minneapolis Camper Van Rentals](https://www.altcamp.com/minneapolis-mn): Camper van rentals in Minneapolis, MN.
+- [New York City Camper Van Rentals](https://www.altcamp.com/new-york-city-ny): Camper van rentals in New York City and the surrounding tri-state area.
+- [Airstream Rentals](https://www.altcamp.com/airstream-rentals): Airstream trailer rentals available through the altCamp platform.
+- [Vanagon Rentals](https://www.altcamp.com/vanagon-rentals): Vintage VW Vanagon camper van rentals across the US.
+
+## Blog & Guides
+
+- [How Much Does a Sprinter Van Rental Cost in 2026?](https://www.altcamp.com/blog/how-much-does-a-sprinter-van-rental-cost-in-2026): Detailed cost breakdown for renting a Sprinter van, including daily rates, mileage fees, and what affects pricing.
+
+## About
+
+- altCamp is headquartered in Orange County, California.
+- The Signature Collection vans are luxury builds available for direct rental — not peer-to-peer listings.
+- altCamp is niche-focused on camper vans and Class B vehicles only.
+- All nationwide listings are sourced from a curated network of local hosts and are bookable through the altCamp platform.
